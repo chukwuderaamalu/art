@@ -1,0 +1,14 @@
+img{
+ object-fit: cover;
+ border: 9px solid rgb(209, 196, 255);
+ border-radius:10px;
+}
+.edd{
+   display: flex;
+   overflow-x: auto;
+  scroll-snap-align: start;
+   padding: 20px;
+   column-gap: 20px;
+   }
+
+  
